@@ -1,0 +1,7 @@
+# User-generated content
+quarantine/
+settings.json
+
+# Python cache files
+__pycache__/
+*.pyc
